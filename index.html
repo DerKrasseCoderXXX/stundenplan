@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stundenplan</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>Stundenplan WI24B4</h1>
+        <p id="meta">Lade Daten...</p>
+      </header>
+
+      <section class="controls">
+        <label for="weekSelect">Studienwoche:</label>
+        <select id="weekSelect"></select>
+      </section>
+
+      <section id="daysGrid" class="days-grid"></section>
+    </main>
+
+    <template id="dayTemplate">
+      <article class="day-card">
+        <h2 class="day-title"></h2>
+        <p class="day-date"></p>
+        <div class="events"></div>
+      </article>
+    </template>
+
+    <template id="eventTemplate">
+      <div class="event">
+        <p class="time"></p>
+        <p class="module"></p>
+        <p class="title"></p>
+        <p class="room"></p>
+      </div>
+    </template>
+
+    
+    <script src="app.js"></script>
+  </body>
+</html>
