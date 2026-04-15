@@ -2,10 +2,12 @@
   "name": "stundenplan",
   "version": "1.0.0",
   "main": "src/server.js",
+  "homepage": "https://derkrassecoderxxx.github.io/stundenplan/",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon --watch src --watch public src/server.js",
     "parse": "node src/parseSchedule.js",
+    "deploy": "gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -17,6 +19,7 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "gh-pages": "^6.1.1"
   }
 }

@@ -72,7 +72,7 @@ function renderWeek(week) {
 }
 
 async function init() {
-  const response = await fetch("/api/schedule");
+  const response = await fetch("./schedule.json");
   if (!response.ok) {
     throw new Error(`API Fehler: ${response.status}`);
   }
@@ -93,7 +93,9 @@ async function init() {
   const renderCurrentWeek = () => {
     const week = byNumber.get(weekSelect.value) || data.weeks[0];
     if (week) renderWeek(week);
-    clearWpfBtn.classList.toggle("visible", Boolean(selectedWpf));
+    if (clearWpfBtn) {
+      clearWpfBtn.classList.toggle("visible", Boolean(selectedWpf));
+    }
   };
 
   renderCurrentWeek();
@@ -102,10 +104,12 @@ async function init() {
     renderCurrentWeek();
   });
 
-  clearWpfBtn.addEventListener("click", () => {
-    selectedWpf = "";
-    renderCurrentWeek();
-  });
+  if (clearWpfBtn) {
+    clearWpfBtn.addEventListener("click", () => {
+      selectedWpf = "";
+      renderCurrentWeek();
+    });
+  }
 }
 
 init().catch((error) => {
