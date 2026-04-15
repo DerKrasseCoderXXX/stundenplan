@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.header h1 {
+  margin: 0 0 6px;
+}
+
+.header p {
+  margin: 0 0 16px;
+  color: #374151;
+}
+
+.controls {
+  margin-bottom: 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+select {
+  padding: 8px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: white;
+}
+
+.days-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.day-card {
+  background: white;
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid #e5e7eb;
+}
+
+.day-title {
+  margin: 0;
+  font-size: 18px;
+}
+
+.day-date {
+  margin: 4px 0 10px;
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.event {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.event.wpf-clickable {
+  cursor: pointer;
+}
+
+.event.wpf-clickable:hover {
+  background: #eff6ff;
+  border-radius: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.event.wpf-selected {
+  background: #dbeafe;
+  border: 1px solid #93c5fd;
+  border-radius: 8px;
+  padding: 10px 8px 0;
+}
+
+.event p {
+  margin: 2px 0;
+  font-size: 14px;
+}
+
+.time {
+  font-weight: 700;
+}
+
+.module {
+  color: #2563eb;
+  font-weight: 700;
+}
+
+.empty {
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+.clear-wpf-btn {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 999px;
+  background: #dc2626;
+  color: #fff;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  display: none;
+}
+
+.clear-wpf-btn.visible {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}

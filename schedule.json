@@ -1,0 +1,1003 @@
+{
+  "source": "https://moodle.hwr-berlin.de/fb2-stundenplan/fb2-stundenplaene/wi/semester4/kursb.html",
+  "parsedAt": "2026-03-30T15:31:25.559Z",
+  "weekCount": 8,
+  "entryCount": 91,
+  "weeks": [
+    {
+      "weekNumber": 5,
+      "dateRange": "23. - 29.03.2026",
+      "days": {
+        "Mo": {
+          "date": "23. Mrz 2026",
+          "events": [
+            {
+              "start": "9:00",
+              "end": "12:15",
+              "module": "SU33",
+              "title": "Schlüsselkompetenzen IV - Wissenschaftliches Yankova-Hristova Online [1]",
+              "room": null,
+              "pause": "15 min"
+            },
+            {
+              "start": "12:15",
+              "end": "14:00",
+              "module": null,
+              "title": "RReserviert Wegezeit Präsenz-/Onlinewechsel [2]",
+              "room": null,
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "16:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            }
+          ]
+        },
+        "Di": {
+          "date": "24. Mrz 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "11:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow",
+              "room": "6B.358",
+              "pause": "15 min"
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "14:45",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6B.353",
+              "pause": null
+            }
+          ]
+        },
+        "Mi": {
+          "date": "25. Mrz 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "12:15",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITGrant",
+              "room": "6A.205",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-5 WPF",
+              "title": "Dev Ops Engineering Prof. Dr. Schlesinger",
+              "room": "6B.372 (WIL1)",
+              "pause": "30 min"
+            }
+          ]
+        },
+        "Do": {
+          "date": "26. Mrz 2026",
+          "events": [
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6B.353",
+              "pause": null
+            }
+          ]
+        },
+        "Fr": {
+          "date": "27. Mrz 2026",
+          "events": [
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "14:45",
+              "end": "15:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            }
+          ]
+        },
+        "Sa": {
+          "date": "28. Mrz 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 6,
+      "dateRange": "30.03. - 05.04.2026",
+      "days": {
+        "Mo": {
+          "date": "30. Mrz 2026",
+          "events": [
+            {
+              "start": "9:00",
+              "end": "10:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "10:45",
+              "end": "12:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "13:15",
+              "end": "14:45",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            }
+          ]
+        },
+        "Di": {
+          "date": "31. Mrz 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "12:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow",
+              "room": "6B.353",
+              "pause": "30 min"
+            }
+          ]
+        },
+        "Mi": {
+          "date": "01. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-5 WPF",
+              "title": "Dev Ops Engineering Prof. Dr. Schlesinger",
+              "room": "6B.367 (WIL2)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:30",
+              "end": "13:30",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITCohen-Schiemann",
+              "room": "5.0001",
+              "pause": "30 min"
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            }
+          ]
+        },
+        "Do": {
+          "date": "02. Apr 2026",
+          "events": [
+            {
+              "start": "12:00",
+              "end": "15:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow",
+              "room": "6B.353",
+              "pause": "15 min"
+            }
+          ]
+        },
+        "Fr": {
+          "date": "03. Apr 2026",
+          "events": []
+        },
+        "Sa": {
+          "date": "04. Apr 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 7,
+      "dateRange": "06. - 12.04.2026",
+      "days": {
+        "Mo": {
+          "date": "06. Apr 2026",
+          "events": []
+        },
+        "Di": {
+          "date": "07. Apr 2026",
+          "events": [
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            }
+          ]
+        },
+        "Mi": {
+          "date": "08. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "14:15",
+              "module": "SIWI5045-1 WPF",
+              "title": "Client-Server-Programmierung Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": "45 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:30",
+              "end": "13:30",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITCohen-Schiemann",
+              "room": "6B.358",
+              "pause": "30 min"
+            }
+          ]
+        },
+        "Do": {
+          "date": "09. Apr 2026",
+          "events": []
+        },
+        "Fr": {
+          "date": "10. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "9:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "12:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.367 (WIL2)",
+              "pause": null
+            },
+            {
+              "start": "12:45",
+              "end": "16:00",
+              "module": "SU6",
+              "title": "Controlling Dr. Ulbig",
+              "room": "6B.358",
+              "pause": "15 min"
+            }
+          ]
+        },
+        "Sa": {
+          "date": "11. Apr 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 8,
+      "dateRange": "13. - 19.04.2026",
+      "days": {
+        "Mo": {
+          "date": "13. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "9:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU33",
+              "title": "Schlüsselkompetenzen IV - Wissenschaftliches Yankova-Hristova",
+              "room": "6B.353",
+              "pause": null
+            }
+          ]
+        },
+        "Di": {
+          "date": "14. Apr 2026",
+          "events": [
+            {
+              "start": "9:00",
+              "end": "18:15",
+              "module": "SU33",
+              "title": "Schlüsselkompetenzen IV - Ausbildung der Ausb Hechel Onlineveranstaltung [1]",
+              "room": null,
+              "pause": "60 min"
+            }
+          ]
+        },
+        "Mi": {
+          "date": "15. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "14:15",
+              "module": "SIWI5045-1 WPF",
+              "title": "Client-Server-Programmierung Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": "45 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-5 WPF",
+              "title": "Dev Ops Engineering Prof. Dr. Schlesinger",
+              "room": "6B.353",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:30",
+              "end": "13:30",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITCohen-Schiemann",
+              "room": "6B.358",
+              "pause": "30 min"
+            },
+            {
+              "start": "15:45",
+              "end": "18:00",
+              "module": "VA17",
+              "title": "Geschäftsprozessmanagement Prof. Dr. Lemke",
+              "room": null,
+              "pause": null
+            }
+          ]
+        },
+        "Do": {
+          "date": "16. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "11:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow",
+              "room": "6B.353",
+              "pause": "15 min"
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6B.353",
+              "pause": null
+            }
+          ]
+        },
+        "Fr": {
+          "date": "17. Apr 2026",
+          "events": [
+            {
+              "start": "8:45",
+              "end": "10:15",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "10:30",
+              "end": "12:00",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "12:45",
+              "end": "16:00",
+              "module": "SU6",
+              "title": "Controlling Dr. Ulbig",
+              "room": "6B.358",
+              "pause": "15 min"
+            }
+          ]
+        },
+        "Sa": {
+          "date": "18. Apr 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 9,
+      "dateRange": "20. - 26.04.2026",
+      "days": {
+        "Mo": {
+          "date": "20. Apr 2026",
+          "events": [
+            {
+              "start": "8:45",
+              "end": "9:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "16:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            }
+          ]
+        },
+        "Di": {
+          "date": "21. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "9:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6A.205",
+              "pause": null
+            }
+          ]
+        },
+        "Mi": {
+          "date": "22. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "14:00",
+              "module": "SIWI5045-1 WPF",
+              "title": "Client-Server-Programmierung Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": "45 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-5 WPF",
+              "title": "Dev Ops Engineering Prof. Dr. Schlesinger",
+              "room": "6B.353",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:30",
+              "end": "13:30",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITCohen-Schiemann",
+              "room": "6B.358",
+              "pause": "30 min"
+            },
+            {
+              "start": "14:30",
+              "end": "16:00",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "16:15",
+              "end": "17:00",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.353",
+              "pause": null
+            }
+          ]
+        },
+        "Do": {
+          "date": "23. Apr 2026",
+          "events": [
+            {
+              "start": "8:45",
+              "end": "10:15",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "10:30",
+              "end": "11:15",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "12:00",
+              "end": "15:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow",
+              "room": "6B.353",
+              "pause": "15 min"
+            }
+          ]
+        },
+        "Fr": {
+          "date": "24. Apr 2026",
+          "events": [
+            {
+              "start": "10:45",
+              "end": "12:15",
+              "module": "SU6",
+              "title": "Controlling Dr. Ulbig",
+              "room": "6B.353",
+              "pause": null
+            },
+            {
+              "start": "13:00",
+              "end": "14:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "14:45",
+              "end": "15:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6B.358",
+              "pause": null
+            }
+          ]
+        },
+        "Sa": {
+          "date": "25. Apr 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 10,
+      "dateRange": "27.04. - 03.05.2026",
+      "days": {
+        "Mo": {
+          "date": "27. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "11:15",
+              "module": "SU6",
+              "title": "Kosten- und Leistungsrechnung Rochow Raum folgt! [1]",
+              "room": null,
+              "pause": "15 min"
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "16:30",
+              "module": "SU16",
+              "title": "Software Engineering Prof. Dr. Schmietendorf",
+              "room": "6B.372 (WIL1)",
+              "pause": null
+            }
+          ]
+        },
+        "Di": {
+          "date": "28. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "9:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.206",
+              "pause": null
+            },
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.206",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Prozessmodellier Prof. Dr. von Saucken",
+              "room": "6A.206",
+              "pause": null
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "16:30",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            }
+          ]
+        },
+        "Mi": {
+          "date": "29. Apr 2026",
+          "events": [
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-2 WPF",
+              "title": "Automatisierung von Office-Anwendun Knuth",
+              "room": "6B.368 (WIL3)",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:00",
+              "end": "13:00",
+              "module": "SIWI5045-5 WPF",
+              "title": "Dev Ops Engineering Prof. Dr. Schlesinger",
+              "room": "6B.353",
+              "pause": "30 min"
+            },
+            {
+              "start": "8:30",
+              "end": "11:45",
+              "module": "SIWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch ITCohen-Schiemann",
+              "room": "6B.358",
+              "pause": "15 min"
+            },
+            {
+              "start": "14:00",
+              "end": "15:30",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6B.358",
+              "pause": null
+            },
+            {
+              "start": "15:45",
+              "end": "17:15",
+              "module": "SU17",
+              "title": "Geschäftsprozessmanagement - Strategisches Ge Prof. Dr. Lemke",
+              "room": "6B.358",
+              "pause": null
+            }
+          ]
+        },
+        "Do": {
+          "date": "30. Apr 2026",
+          "events": [
+            {
+              "start": "9:45",
+              "end": "11:15",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            },
+            {
+              "start": "11:30",
+              "end": "13:00",
+              "module": "SU18",
+              "title": "IT-Management Prof. Dr. Resch",
+              "room": "6A.205",
+              "pause": null
+            }
+          ]
+        },
+        "Fr": {
+          "date": "01. Mai 2026",
+          "events": []
+        },
+        "Sa": {
+          "date": "02. Mai 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 11,
+      "dateRange": "04. - 10.05.2026",
+      "days": {
+        "Mo": {
+          "date": "04. Mai 2026",
+          "events": []
+        },
+        "Di": {
+          "date": "05. Mai 2026",
+          "events": []
+        },
+        "Mi": {
+          "date": "06. Mai 2026",
+          "events": [
+            {
+              "start": "8:30",
+              "end": "17:30",
+              "module": "MWI5045-4 WPF",
+              "title": "Wirtschaftsenglisch IT - Mündliche Cohen-Schiemann, Grant",
+              "room": "5.0001",
+              "pause": null
+            }
+          ]
+        },
+        "Do": {
+          "date": "07. Mai 2026",
+          "events": []
+        },
+        "Fr": {
+          "date": "08. Mai 2026",
+          "events": []
+        },
+        "Sa": {
+          "date": "09. Mai 2026",
+          "events": []
+        }
+      }
+    },
+    {
+      "weekNumber": 12,
+      "dateRange": "11. - 17.05.2026",
+      "days": {
+        "Mo": {
+          "date": "11. Mai 2026",
+          "events": []
+        },
+        "Di": {
+          "date": "12. Mai 2026",
+          "events": []
+        },
+        "Mi": {
+          "date": "13. Mai 2026",
+          "events": []
+        },
+        "Do": {
+          "date": "14. Mai 2026",
+          "events": []
+        },
+        "Fr": {
+          "date": "15. Mai 2026",
+          "events": []
+        },
+        "Sa": {
+          "date": "16. Mai 2026",
+          "events": []
+        }
+      }
+    }
+  ]
+}
